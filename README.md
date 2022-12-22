@@ -3,4 +3,9 @@ Korean Abstract Meaning Representation(AMR) _The Little Prince_ corpus
 한국어 추상 의미 표상 _어린 왕자_ 말뭉치  
 韩语抽象语义表示 _小王子_ 语料库  
   
+This repository contains the Korean AMR Little Prince corpus, with annotated parallel with English, Chinese, Br-Portuguese, Persian and other languages.  
+Annotated by Huang Hao at Yonsei University in 2022.  
+  
+__Citiation:__  
+HUANG HAO. "시퀀스-투-시퀀스 한국어 추상 의미 표상(AMR) 파싱 연구." 국내석사학위논문 연세대학교 대학원, 2022. 서울
 
