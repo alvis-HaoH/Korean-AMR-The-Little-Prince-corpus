@@ -7,5 +7,5 @@ This repository contains Korean AMR of _the little prince_ corpus, which is anno
 Annotated by Huang Hao at Yonsei University in 2022.  
   
 __Citiation:__  
-HUANG HAO. "시퀀스-투-시퀀스 기반 한국어 추상 의미 표상(AMR) 파싱 연구." 국내석사학위논문 연세대학교 대학원, 2022. 서울
+HUANG HAO. "시퀀스-투-시퀀스 기반 한국어 추상 의미 표상(AMR) 파싱 연구." 국내석사학위논문 연세대학교 대학원, 2023. 서울
 
